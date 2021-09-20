@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Pa1_example_native" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FF0c2b49</item>
+        <item name="android:background">#FF223d57</item>
+    </style>
+</resources>
